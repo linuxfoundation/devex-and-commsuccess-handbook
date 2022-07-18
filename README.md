@@ -45,8 +45,8 @@ Instructions:
 
 1. Make one single copy of the [Weekly status report template](https://docs.google.com/document/d/1CxZ30C0MfLB6TyeVP1I64InSRNa4YQE0MVWBSEDK2EM/edit) document and replace the title with your name. You'll be adding content to your one document every week.
 1. Leave the sharing permissions set to "The Linux Foundation" and "Edit". If you are sharing confidential information, consider changing the people to share with to "Developer Experience and Community Success Team".
-1. Add a link to your weekly report document to the links section of your 1:1 with your manager.
-1. Add a link to your weekly report document to the links section of the Developer Experience and Community Success team meeting agenda.
+1. Add a link to your weekly report document to the links section of your [1:1 with your manager](#1-on-1s).
+1. Add a link to your weekly report document to the links section of the [Developer Experience and Community Success team meeting agenda](#team-meeting).
 
 Content format:
 
