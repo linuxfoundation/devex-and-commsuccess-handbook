@@ -116,3 +116,39 @@ Content contribution in detail:
 | Merge MR | TBD | The final reviewer will generally merge the MR once one or more approvals have been received. The submitter will not generally approve their own requests. However, until we refine the process it should be fine for them to do so if the reviewers' approvals have been done. |
 
 :information_source: Note for advanced users: members of the [Developer Experience and Community Success team](https://github.com/orgs/linuxfoundation/teams/devex-and-commsuccess-team) in the `linuxfoundation` organization in GitHub can create development branches directly under the repository where the handbook lives. These will be generally the ones that will be used to contain the changes submitted in PRs. It is not the most common development approach, but it simplifies our workflow. Working on forks and topic branches is also supported.
+
+
+#How to set up a third party contract vendor (agency or individual):
+
+1. The vendor either: 
+    1. Creates a scope of work (SOW) outlining what they will be doing and what it will cost. This is the preferred method. 
+    2. Creates a legal agreement that includes a SOW. This method requires the LF Legal team to review the contract before approving it for LF to sign. 
+2. The vendor sends either their SOW or their legal agreement to the LF internal contact, usually the Program Manager. 
+3. The LF internal contact goes to [staff.linuxfoundation.org](staff.linuxfoundation.org) and opens the ‘[HR Finance Ops](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/21)’ portal.
+4. Inside the HR Finance Ops portal, click the ‘[Contractor & Vendor Requests](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/21/create/462)’ option and fill out the form. 
+    3. In order to complete the form you will need this information from the contractor:
+        1. Vendor name
+        2. Name of signatory for contract
+        3. Email address of signatory for contract
+        4. Contractor’s physical mailing address
+        5. Contractor start date
+        6. Contractor duration
+        7. Contractor type: individual or agency
+        8. New contract or extension to an existing contractor agreement (requires LF Legal review)
+        9. Standard LF contract (preferred) or 
+        10. LF department or Project the contractor will be working for
+        11. Description of work to align it with the correct budget code (ex: Marketing)
+        12. Compensation type: hourly, salary, other
+        13. Compensation amount
+        14. Compensation max budget
+        15. Name of LF internal manager
+        16. Scope of work provided by the vendor (provided as an attachment)
+5. You will receive a notification from Jira that your form has been submitted. 
+6. Your request will be reviewed by the LF Finance team to ensure the department or project’s budget has enough revenue to cover the new expense.
+7. Once approved by LF Finance, The LF HR Finance Ops team will create a Docusign agreement. You will receive a notification that the agreement is “out for signature” when it is sent to the first signatory. 
+    4. The Docusign agreement is first sent to the Finance lead for that department or project for them to sign. 
+    5. It is then routed to the LF internal manager (who will manage the contractor) for them to sign.
+    6. Finally it is sent to the contract vendor for them to sign.
+8. Once all three parties have signed the document you will receive a copy of it from Docusign. The three parties who signed it will also receive a copy.  
+9. When it's time to pay, the vendor emails their invoice to the LF internal manager for them to review it. Once they approve payment on the invoice they forward it to [AP@Linuxfoundation.org](mailto:AP@Linuxfoundation.org) notifying them that the invoice is approved for payment. 
+10. The LF Accounts Payable department will pay the invoice. 
